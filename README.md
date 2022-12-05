@@ -1,4 +1,4 @@
-### Hi There👋
+## Hi There👋
 
  - 🧑‍🎓 I Am Currently A Student Learning Software Development.
  - 💻 I Have Gained A Fair Bit Of Knowlege On Diffrent Languages, Which I am Comftable With, Such As: Python, Java, C++, C#, Html, CSS, SQL.
@@ -8,4 +8,4 @@
   -A Website for a Restourant (Language Used: Html, CSS)
   -A Ecomerce Website That Sells Electronics (Language Used: Html, Css, Python, Django)
 
-Thank You For Having A Look 👍
+### Thank You For Having A Look 👍
