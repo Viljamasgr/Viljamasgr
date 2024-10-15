@@ -1,11 +1,19 @@
-## Hi There👋
+## Welcome to my GitHub profile!
 
- - 🧑‍🎓 I Am A Software Development Graduate.
- - 💻 I Have Gained A Fair Bit Of Knowlege On Diffrent Languages, Which I am Comftable With, Such As: Python, Java, C++, C#, Html, CSS, SQL, Git.
- - 👨‍💻 Currently I Am Working On A E-commerce Website using Django and Python.
- - ✍️ I Have Many Projects That I have In Mind Which I Will Be Posting Here The Progress As I Work Though Them.
- - 📝 Some Of The Projects I have Worked On And Completed Are:
-  -A Website for a Restourant (Language Used: Html, CSS)
-  -A Ecomerce Website That Sells Electronics (Language Used: Html, Css, Python, Django)
+I am a software development graduate with a strong foundation in various programming languages and frameworks. I am passionate about coding, continually learning, and developing innovative projects.
 
-### Thank You For Having A Look 👍
+## Skills
+- languages: Java, JavaScripts, Python, C#, C++, HTML, CSS, Kotlin, SQL.
+- Frameworks: React, Angular, Bootstrap, Node.js, Next.js, .NET, Django, Spring Boot.
+- Tools: Git, Docker, Google Cloud PLatform, AWS, MongoDB, Oracle SQL, Swagger, JIRA, Firebase.
+- Certifications: AWS Cloud Architecture.
+
+## Projects 
+- Workout App | Kotlin, Firebase
+  - Custamizable workouts, BMI and Calorie Calculators.
+  - Firebase Integration for authenticaton and storage.
+- Math Game | Java, C#, .NET
+  - Timed Questions, difficulty levels, leaderboard.
+  - Custom API for score management.
+
+## Thank you for visiting my profile. Looking forward to connecting!
